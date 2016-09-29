@@ -6,3 +6,6 @@ crontab -e
 
 # To delete the current task list !!!!!!!!!!
 crontab -r
+
+# To restart the crond service
+service crond restart

@@ -9,3 +9,6 @@ crontab -r
 
 # To restart the crond service
 service crond restart
+
+# To check the crond status
+service crond status

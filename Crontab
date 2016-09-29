@@ -1,0 +1,8 @@
+# Display the current task list
+crontab -l
+
+# To edit
+crontab -e
+
+# To delete the current task list !!!!!!!!!!
+crontab -r
